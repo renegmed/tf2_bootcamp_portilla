@@ -1,0 +1,1 @@
+Personal workbook on learning Tensorflow 2.0 offered by J Portilla 
